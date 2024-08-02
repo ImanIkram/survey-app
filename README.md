@@ -1,7 +1,7 @@
 # Student Survey-App
 ## The Business Case
 The Department of Education would like to allocate a budget for career-connected learning according to students’ job interests. 
-## The plan
+## The Plan
 An online tool to conduct a student job interest survey
 - Must be able to use this tool at different schools
 - Capture school name, email address, and job interest
